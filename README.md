@@ -68,10 +68,10 @@ Debian.yaml (File)
 replace Appname in Appname.desktop with your application name. keep in
 mind it should be unique like me.gtirkha.demo.desktop\
 
-2.  open debian.yaml in a text editor
+2.  ***open debian.yaml in a text editor***
 
     a.  copy the following boiler plate in debian.yaml file (Indent
-        Sensitive) and follow the following instructions
+        Sensitive) and follow the following instructions [copy](https://github.com/gtirkha1312/deb-from-flutter-demo/blob/master/debian/debian.yaml)
 
 flutter\_app:
 
@@ -154,7 +154,7 @@ Maintainer: Gautam Tirkha
 
 Description: Application built on flutter
 
-3.  Open *Appname*.desktop file in a text editor
+3.  ***Open Appname.desktop file in a text editor***
 
     a.  copy the following boiler plate (Case sensitive)
 
