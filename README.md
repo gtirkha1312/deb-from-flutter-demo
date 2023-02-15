@@ -56,17 +56,17 @@ lib linux android etc.)***
 
 \|
 
-+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- gui
++\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- gui
 (Folder)
 
-\| \|
+\| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|
 
-\| *Appname*.desktop (File)
+\| &nbsp; &nbsp; &nbsp;*Appname*.desktop (File)
 
 Debian.yaml (File)
 
 replace Appname in Appname.desktop with your application name. keep in
-mind it should be unique like ***me.gtirkha.demo.***desktop\
+mind it should be unique like me.gtirkha.demo.desktop\
 
 2.  open debian.yaml in a text editor
 
