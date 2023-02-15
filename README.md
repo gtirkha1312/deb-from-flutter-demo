@@ -244,18 +244,18 @@ h.  ***Icon*** the icon we want to display when a user searches for the
 4.  Form the root of your flutter project run ***flutter build linux
     --release && flutter\_to\_debian,*** after successful completion you
     can get deb file from project root/debian/packages\
-    ***Note:*** The generated deb file through this process cannot be
-    installed using gui package manager and can only be installed using
-    command line in terminal.
+>    ***Note:*** The generated deb file through this process cannot be
+>    installed using gui package manager and can only be installed using
+>    command line in terminal.
 
 To install the .deb file run following command
 
 ***sudo dpkg -i /path/to/.deb && sudo apt -f install -y***
 
-***Note:*** during installation prompt the installer will ask if the
-user wants to install the package or not, it accepts the process only
-and only if, if the user types yes (lower case) and hit enter. Typing y
-will lead to failure of installation
+>   ***Note:*** during installation prompt the installer will ask if the
+>   user wants to install the package or not, it accepts the process only
+>   and only if, if the user types yes (lower case) and hit enter. Typing y
+>   will lead to failure of installation
 
 **uninstalling:** If you want to uninstall the .deb file use the
 following command
@@ -273,8 +273,8 @@ and removing confirmation prompt**
 
 **Steps to create gui instable deb package**
 
-**Note:** I Am considering my debian file name as xyz.deb , replace it
-with yours
+>   **Note:** I Am considering my debian file name as xyz.deb , replace it
+>   with yours
 
 1.  Place the deb file in an empty folder
 
