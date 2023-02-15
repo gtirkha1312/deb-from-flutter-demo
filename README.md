@@ -156,7 +156,7 @@ Description: Application built on flutter
 
 3.  ***Open Appname.desktop file in a text editor***
 
-    a.  copy the following boiler plate (Case sensitive)
+    a.  copy the following boiler plate (Case sensitive) [copy](https://github.com/gtirkha1312/deb-from-flutter-demo/blob/master/debian/gui/me.gtirkha.desktop)
 
 \[Desktop Entry\]
 
