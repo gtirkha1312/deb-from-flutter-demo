@@ -1,4 +1,4 @@
-# demo
+# **MAKING A DEB PACKAGE FROM FLUTTER PROJECT**
 **MAKING A DEB PACKAGE FROM FLUTTER PROJECT**
 
 This documentation is about how to make a .deb package from flutter
